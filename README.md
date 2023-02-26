@@ -4,7 +4,7 @@
 - 🔒 Mainly working on employers' private repositories.
 - 📫 How to reach me: https://www.linkedin.com/in/shaghayegh-ghavami
 - ✉️ How to contact me?
-    Personal portfolio:  https://shaghayegh-gh.github.io
-    LinkedIn: https://linkedin.com/in/shaghayegh-ghavami
+   - Personal portfolio:  https://shaghayegh-gh.github.io
+   - LinkedIn: https://linkedin.com/in/shaghayegh-ghavami
 
 
