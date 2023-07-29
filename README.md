@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### 👩‍💻  About Me 
-I am an enthusiastic Front-end developer with 6+ years of experience who has worked on projects individually or in Scrum teams for startup and enterprise companies. I have worked with Javascript, Typescript, ReactJs, Storybook, etc. I am always eager to learn new technologies, apply them in my work, and share my insights with my colleagues.
+I am an enthusiastic Front-end developer with 7+ years of experience who has worked on projects individually or in Scrum teams for startup and enterprise companies. I have worked with Javascript, Typescript, ReactJs, Storybook, etc. I am always eager to learn new technologies, apply them in my work, and share my insights with my colleagues.
 
 ###
 
