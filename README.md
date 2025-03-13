@@ -44,8 +44,8 @@ I am an enthusiastic Front-end developer with 7+ years of experience who has wor
 ###
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/shaghayegh-ghavami/)
-[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:ghavami.shgh@gmail.com) 
-[![medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@shaghayegh-gh)
+[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:shayghavami@gmail.com) 
+[![medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@shaghayegh-ghavami)
 
 
 
